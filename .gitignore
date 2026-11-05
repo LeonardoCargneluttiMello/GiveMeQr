@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+qr_*.png
+qr_*.jpeg
+qr_*.jpg
+qr_*.gif
+qr_*.bmp
+qr_*.webp
+qr_*.tiff
+qr_*.ico
